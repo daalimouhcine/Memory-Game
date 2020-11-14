@@ -1,8 +1,8 @@
-const lion = "images/lion.jpg";
-const hybris = "images/hybris.jpg";
-const owl = "images/owl.jpg";
-const tropical = "images/tropical.jpg";
-const blue = "images/blue.jpg";
+const lion = "https://i.pinimg.com/564x/49/c4/38/49c43851924b9e2036c0377c12208ec1.jpg";
+const hybris = "https://i.pinimg.com/564x/5e/74/db/5e74dbf1c0a2987bbd40442631217a4d.jpg";
+const owl = "https://i.pinimg.com/564x/00/86/97/0086976b1bc4e1014ac589d008c5250d.jpg";
+const tropical = "https://i.pinimg.com/564x/8e/08/f9/8e08f9d27baa034eaa8ddb34b403ad28.jpg";
+const blue = "https://i.pinimg.com/564x/21/40/40/21404003ae70f1777147161fa9cfac16.jpg";
 
 const body = document.querySelector("body");
 
