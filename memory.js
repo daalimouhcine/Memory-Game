@@ -1,3 +1,11 @@
+/*
+const lion = "images/lion.jpg";
+const hybris = "images/hybris.jpg";
+const owl = "images/owl.jpg";
+const tropical = "images/tropical.jpg";
+const blue = "images/blue.jpg";
+*/
+
 const lion = "https://i.pinimg.com/564x/49/c4/38/49c43851924b9e2036c0377c12208ec1.jpg";
 const hybris = "https://i.pinimg.com/564x/5e/74/db/5e74dbf1c0a2987bbd40442631217a4d.jpg";
 const owl = "https://i.pinimg.com/564x/00/86/97/0086976b1bc4e1014ac589d008c5250d.jpg";
